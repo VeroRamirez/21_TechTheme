@@ -1,0 +1,62 @@
+/* INICIO CSS para PORTFOLIO */
+.letra-frase{
+	color:gray;
+}
+.letra-h-porta{
+	font-family: Arial;
+	font-size: 30px;
+}
+.back-gray{
+	background-color: #E6E6E6;
+	height: 1650px;
+
+}
+.menu-porta{
+	list-style: none;
+	font-size: 20px;
+}
+
+.list-port{
+	display: inline-block;
+	padding: 1px;
+}
+
+li:hover a{
+	background: #01A9DB;
+	color:white;
+}
+
+.color-porta{
+	text-decoration: none;
+	padding: 10px 15px;
+	color:black;
+	background: white;
+}
+.img-porta{
+	width: 450px;
+	height: 350px;
+}
+.box-porta{
+	background: white;
+	width: 480px;
+	height: 410px;
+	padding-top: 15px;
+}
+.pd-row-porta{
+	padding-top: 2%;
+}
+.float-right{
+	float: right;
+}
+.btn-porta{
+	color:white;
+	background-color: #2E2E2E;
+	font-size: 16px;
+	width: 120px;
+	height: 40px;
+	padding: 3px;
+	font-weight: 2px;
+	display: block;
+	margin: 4% auto;
+}
+/*FIN para PORTFOLIO */
