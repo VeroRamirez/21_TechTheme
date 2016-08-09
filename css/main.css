@@ -72,7 +72,12 @@ li:hover a{
 	background-repeat: no-repeat;
 	background-position: center top;
 	background-size: cover;
-	filter: contrast(1.6);
+	height: 400px;
+
+}
+.back-price2{
+	background: rgba(0,0,0,0.5);
+	background-size: cover;
 	height: 400px;
 
 }
@@ -210,6 +215,11 @@ li:hover a{
 	background-size: cover;
 	background-position: center top;
 	background-repeat: no-repeat;
+	height: 500px;
+}
+.back-contact2{
+	background:rgba(0,0,0,0.5);
+	background-size: cover;
 	height: 500px;
 }
 .pdt-2{
