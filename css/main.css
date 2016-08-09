@@ -1,0 +1,115 @@
+.fondoinicio{/* Primera Sección */
+	background-image: url(../img/background/hero.jpg);
+	background-color: gray;
+	background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  height: 700px;
+  width: auto;  
+}
+.fondooscuro{  
+  background: rgba(0, 0, 0, 0.5);
+  background-size: cover;
+  height: 700px;
+  width: auto;
+  padding-left: 8%;
+  padding-right: 8%;
+  padding-top: 2%;
+  margin-bottom: 5%;
+}
+.star{
+  font-size: 25px;
+  font-weight: bold;
+  color: white;
+  display: inline-block;
+  margin-left: 1%;
+}
+nav{
+  margin-left: 40%;
+}
+nav li {
+	display: inline;
+	font-size: 20px;
+	text-decoration: none;
+	list-style-type: none;
+	margin-right: 5%;
+}
+a {
+	color: white;
+	text-decoration: none;
+}
+a:hover {
+    color: #0dc0c0;
+}
+h1{
+	text-align: center;
+	color: white;
+	margin-top: 10%;
+	margin-bottom: 2%;
+}
+.lema{
+	text-align: center;
+	color: white;
+	font-size: 20px;
+  margin-top: 0;
+}
+button {
+    background: rgba(255,255,255,0.1);
+    border: none;
+    cursor: pointer;
+    text-align: center;
+    padding: 10px;
+    font-size: 20px;
+    font-weight: bold;
+    font-size: 20px;
+    color: white;
+}​
+.button {
+    -webkit-transition-duration: 0.4s;
+    transition-duration: 0.4s;
+}
+.button:hover {
+    background-color: #242424;
+  }
+ .fondomorefeatures{
+    background-image: url(../img/laptop-features.png);
+    background-color: gray;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: top;
+    height: 500px;
+    width: auto;
+}
+.fondooscuro2{  
+    background: rgba(0, 0, 0, 0.5);
+    background-size: cover;
+    height: 500px;
+    width: auto;
+    padding-top: 30px;
+}
+ .margtop{
+    margin-top: 5%;
+ }
+  .iconogrande{
+    font-size: 50px;
+    color: #0dc0c0;
+  }
+  .justificado{
+    text-align: justify-all;
+  }
+   .iconochico{
+    font-size: 30px;
+    color: #0dc0c0;
+  }
+  .filadetres{
+    margin-bottom: 10%;
+    margin-left: 20px;
+    margin-right: 20px;
+  }
+  .margenes{
+    margin-top: 3%;
+    margin-bottom: 3%;
+}
+#margentopbotones{
+  margin-top: 3%;
+}
